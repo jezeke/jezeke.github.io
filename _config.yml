@@ -1,3 +1,21 @@
+title: "Tech Blog Fom Te Swamp Lagoon
+author: "Jhi Morris
+description: "Authentic Reverse Engineering and Roundhouse Disco"
+permalink: /:title/
+lang: "en"
+
+show_footer: true           # show the "previous" and "next" links at the end of each post
+dark_theme: true            # use the dark mode as default
+dark_header: true            # keep the header dark
+dark_footer: true           # keep the footer dark
+
+#navigation:                  # site navigation in the header
+#  - Github: ""
+
+icons:                      # icons in the header, see http://fontawesome.com/icons
+  github: "https://github.com/jezeke/"
+  linkedin: "https://www.linkedin.com/in/jhi-morris/"
+
 remote_theme: niklasbuschmann/contrast@v1.0
 
 plugins:
