@@ -13,4 +13,6 @@ If none of the above are the case then continue to read my blog until one of the
 
 Hey dude, we'll see if it works. Besides, I thought I already told you to either email me or go read more of my blog posts? What are you still doing here?
 
-![Aleph Null](/assets/alephnull.png)
+<p align="center">
+  <img width="300" height="300" src="/assets/alephnull.png">
+</p>
