@@ -12,10 +12,10 @@ dark_footer: true           # keep the footer dark
 navigation:                  # site navigation in the header
   - About: "https://jezeke.github.io/the-meaning/"
 
-icons:                      # icons in the header, see http://fontawesome.com/icons
-  git-square: "https://github.com/jezeke/"
-  linkedin: "https://www.linkedin.com/in/jhi-morris/"
-  email: "contactjezeke@gmail.com"
+#icons:                      # icons in the header, see http://fontawesome.com/icons
+#  git-square: "https://github.com/jezeke/"
+#  linkedin: "https://www.linkedin.com/in/jhi-morris/"
+#  email: "contactjezeke@gmail.com"
 
 remote_theme: niklasbuschmann/contrast@v1.0
 
