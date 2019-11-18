@@ -13,7 +13,7 @@ dark_footer: true           # keep the footer dark
 #  - Github: ""
 
 icons:                      # icons in the header, see http://fontawesome.com/icons
-  github: "https://github.com/jezeke/"
+  git-square: "https://github.com/jezeke/"
   linkedin: "https://www.linkedin.com/in/jhi-morris/"
 
 remote_theme: niklasbuschmann/contrast@v1.0
