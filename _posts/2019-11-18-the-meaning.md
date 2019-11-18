@@ -18,7 +18,7 @@ Hey dude, we'll see if it works. Besides, I thought I already told you to either
 
 ## Who Is This Guy Anyway?
 
-If you must know more, then (check out my resume.)[/assets/blogresume.pdf]
+If you must know more, then [check out my resume.](/assets/blogresume.pdf)
 
 <p align="center">
   <img width="300" height="300" src="/assets/alephnull.png">
