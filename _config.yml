@@ -5,7 +5,7 @@ permalink: /:title/
 lang: "en"
 
 show_footer: true           # show the "previous" and "next" links at the end of each post
-dark_theme: true            # use the dark mode as default
+dark_theme: false            # use the dark mode as default
 dark_header: true            # keep the header dark
 dark_footer: true           # keep the footer dark
 
