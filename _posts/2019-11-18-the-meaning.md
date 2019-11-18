@@ -1,7 +1,10 @@
 ---
 title: "So What's The Meaning Of All This?"
-categories: uncategorized
+category: uncategorized
 ---
+
+Summary: Here's my [resume](/assets/blogresume.pdf), give me a job and/or a hi-five.
+
 ## So He Thought He Could Start A Blog Huh?
 
 Look man, I just want a job and a place to tell stories. This blog meets the second need and if you like what you see then I'm gonna need you to shoot me an email about that first one. Note, you may have already given me a job and I am now so busy working for you that I forgot to edit this blog page. If this is the case, get up from your computer and stick a thumbtack on my chair or give me a hi-five or something.
